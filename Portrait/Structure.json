@@ -3,6 +3,12 @@
         "title": "Racer",
         "project_url": "https://placehold.co/600x400/a29bfe/ffffff?text=Project+One",
         "description": "how to race like baby junior",
-        "image_url": "https://placehold.co/600x400/a29bfe/ffffff?text=Project+One"
+        "image_url": "https://images.pexels.com/photos/32523950/pexels-photo-32523950.jpeg"
+    },
+    "example1": {
+        "title": "Tries",
+        "project_url": "https://placehold.co/600x400/a29bfe/ffffff?text=Project+One",
+        "description": "how to race like baby junior",
+        "image_url": "https://images.hdqwalls.com/wallpapers/super-mario-character-4k-kl.jpg"
     }
 }
