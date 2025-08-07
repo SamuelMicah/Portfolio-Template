@@ -1,14 +1,18 @@
 {
     "Git": {
+        "speed": 0.8,
         "image_url": "https://images.hdqwalls.com/wallpapers/super-mario-character-4k-kl.jpg"
     },
     "Blender": {
+        "speed": 0.6,
         "image_url": "https://images.hdqwalls.com/wallpapers/super-mario-character-4k-kl.jpg"
     },
     "VsCode": {
+        "speed": 0.4,
         "image_url": "https://wallpapercrafter.com/sizes/1366x768/161852-Derek-Laufman-Super-Mario-Super-Mario-Bros.-Luigi-video-games-Nintendo-simple-background-white-background-artwork-digital-art-minimalism.jpg"
     },
     "Unity": {
+        "speed": 0.2,
         "image_url": "https://wallpapercrafter.com/sizes/1366x768/161852-Derek-Laufman-Super-Mario-Super-Mario-Bros.-Luigi-video-games-Nintendo-simple-background-white-background-artwork-digital-art-minimalism.jpg"
     }
 }
